@@ -1,0 +1,1 @@
+- Changed methods from Cronjobs to dnf autoupdate for cleaner integration and setup.
